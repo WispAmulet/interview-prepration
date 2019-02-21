@@ -14,4 +14,8 @@
 + [浏览器相关]()
 + [算法]()
 
+## 前端面试之道笔记
+
++ [Note](./note/README.md)
+
 ![图谱](https://github.com/WispAmulet/interview-prepration/blob/master/v2-f7a359fcc74bce95d16686849dc15517_r.jpg)
